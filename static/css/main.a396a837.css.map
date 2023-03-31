@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a396a837.css","mappings":"AAAA,KACI,sBAAuB,CACvB,sBAAuB,CACvB,YACJ","sources":["styles/style.css"],"sourcesContent":["#map {\r\n    border: 15px solid #fff;\r\n    outline: 1px solid #ddd;\r\n    padding: 15px;\r\n}"],"names":[],"sourceRoot":""}
