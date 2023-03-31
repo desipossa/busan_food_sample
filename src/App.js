@@ -7,6 +7,8 @@ import AllLsit from "./pages/AllLsit";
 import GuList from "./pages/GuList";
 import Itm from "./pages/Itm";
 
+import './styles/style.css';
+
 const App = () => {
     const [busanFood, setBusanFood] = useState([]);
     const [gugun, setGugun] = useState([]);

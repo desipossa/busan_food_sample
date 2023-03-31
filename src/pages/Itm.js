@@ -40,6 +40,12 @@ const Itm = ({ busanFood }) => {
                 store && <li>
                     {store.TITLE}
                     <div id="map" style={{ height: "500px" }}></div>
+                    <div>
+                        <h3>{store.TITLE}</h3>
+                        <figure>
+                            <img src={store.MAIN_IMG_NORMAL} alt={store.TITLE} />
+                        </figure>
+                    </div>
                 </li>
             }
         </ul>

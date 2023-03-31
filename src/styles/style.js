@@ -5,4 +5,8 @@ display: grid;
 grid-template-columns : repeat(8, 1fr);
 gap: 20px;
 margin: 100px 100px;
+
+img {
+    max-width: 100%;
+}
 `
